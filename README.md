@@ -2,8 +2,8 @@
 
 A comprehensive guide to combining DataFrames using merge, join, and concatenation operations in Pandas. Master SQL-style joins, index-based merging, and data combination techniques.  
 
-## 📋 Table of Contents 
-     
+## 📋 Table of Contents
+
 - [Overview](#overview)
 - [Types of Joins](#types-of-joins)
 - [Merge vs Join vs Concat](#merge-vs-join-vs-concat)
